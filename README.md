@@ -1,5 +1,5 @@
 # GTBiol2400
-Georgia Tech BIOL 2400: Mathematical Models in Biology
+Georgia Tech BIOL 3600: Intro Evolutionary Biology
 
 
 You can follow the below instructions to run Julia notebook files online:
